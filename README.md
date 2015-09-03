@@ -3,65 +3,65 @@ This is for sample project
 
 Configuration management tools:
 -------------------------------
-Chef
-puppet
+Chef,
+puppet,
 
-CFEngine	  (anyone)
+CFEngine,	  (anyone)
 Ansible
 
 Continuous integration tools:
 -----------------------------
-Jenkins           (anyone)
-Hudson
+Jenkins,           (anyone)
+Hudson,
 CruiseControl
 
 Build:
 ------
-Ant
-Maven
+Ant,
+Maven,
 gradle
 
 OS
 ---
-Linux
-Centos
-Redhat
+Linux,
+Centos,
+Redhat,
 Ubuntu
 
 OS admin exposure:
 -----------------
-Centos
+Centos,
 Redhat
 
 script:
 -------
-Shell
+Shell,
 Perl
 
 OOP programming:
 ----------------
-Ruby/Pyth         (anyone)
+Ruby/Python,         (anyone)
 Perl
 
 Web level programming:
 ---------------------
-PHP               (anyone)
-Ruby on Rails 
+PHP,               (anyone)
+Ruby on Rails, 
 Python
 
 Webserver:
 ----------
-apache
+apache,
 
 Database:
 ---------
-DB concepts
-mysql 
+DB concepts,
+mysql,
 mongo DB
 
 
 virtualization:
 ---------------
-Vmware
+Vmware,
 Vmstudio
 
