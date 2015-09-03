@@ -41,7 +41,8 @@ Perl
 OOP programming:
 ----------------
 Ruby/Python,         (anyone)
-Perl
+Perl,
+C
 
 Web level programming:
 ---------------------
