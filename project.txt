@@ -1,0 +1,7 @@
+> unix Command
+> self assistance product with Web
+> self assistance Deamon which runs in background
+> search utility over web for assistance
+> small product which often people need on independent Platform specific
+> Build/Configuration/Release related tools which can be used for automation
+> small product which often people need on developement platform
