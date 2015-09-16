@@ -1,0 +1,18 @@
+Ranger Project Technical Req:
+
+Design:
+#######
+ 	. JQuery
+ 	. CSS3
+ 	. CSS Media Queries
+ 	. HTML5
+ 	. template with base design
+ 	. RWD implementation
+
+Interactive:
+############
+ 	. PHP
+
+DB:
+###
+	. mongoDB (nosql)
